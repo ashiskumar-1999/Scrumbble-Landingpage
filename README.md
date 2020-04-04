@@ -1,4 +1,4 @@
 # Scrumbble
 # To Run Locally:
-npm i
-npm start
+# npm i
+# npm start
